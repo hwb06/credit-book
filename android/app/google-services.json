@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932044138207",
+    "project_id": "udhaar-app-ddeb8",
+    "storage_bucket": "udhaar-app-ddeb8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932044138207:android:df7e0b91e5c3fdccb32b6a",
+        "android_client_info": {
+          "package_name": "com.example.udhaar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9XIZ4gmNoYsA9WnX6XLm8mF9qoC4mLqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
