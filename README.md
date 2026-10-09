@@ -16,6 +16,20 @@ Built with **Flutter Web**, **Firebase** and the **BLoC** pattern.
 - Responsive design for mobile and desktop
 - Firestore security rules (each shopkeeper sees only their own data)
 
+## Screenshots
+
+![Dashboard](screenshots/credit_app_db.JPG)
+
+![Customers](screenshots/customers_list_screen.JPG)
+
+![Customers](screenshots/customer_details_screen.JPG)
+
+![Overdue](screenshots/overdue_list_screen.JPG)
+
+![Login](screenshots/login_screen.JPG)
+
+
+
 ## Tech Stack
 
 | Technology | Use |
